@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#myImage {
+  transition: transform 1s;
+}
+
+/* #myImage:hover {
+  transform: rotate(180deg);
+} */
+
+.rotate-img {
+  transform: rotate(180deg);
+}
